@@ -1,0 +1,17 @@
+@font-face {
+font-family: hsenpai;
+src: url(../fonts/hsenpai.otf);
+}
+@font-face {
+font-family: ours-unicode;
+src: url(../fonts/ours.ttf);
+}
+@font-face {
+font-family: 'A Ying 06 Bold';
+src: url('../fonts/A Ying 06 Bold.ttf');
+}
+@font-face {
+font-family: bshan;
+src: url(../fonts/BShanBB.ttf);
+}
+

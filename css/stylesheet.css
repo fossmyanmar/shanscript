@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'A Ying 06 Bold';
+	src: url('../fonts/A Ying 06 Bold.eot');
+	src: url('../fonts/A Ying 06 Bold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/A Ying 06 Bold.woff') format('woff'),
+		url('../fonts/A Ying 06 Bold.ttf') format('truetype'),
+		url('../fonts/A Ying 06 Bold.svg') format('svg');
+}
