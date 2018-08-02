@@ -398,17 +398,16 @@ function convert(source) {
       }
     }
   }
-
   //Append any remaining letters
   final_result += flush(norm_out);
-
   return final_result;
 }
 
 
+
 function convertToUni() {
-  var source = document.getElementById('srcSource').value;
+  var source = document.getElementById('scrSource').value;
   var done = convert(source);
-  document.getElementById('srcFinish').value = done;
+  document.getElementById('scrFinish').value = done;
   document.getElementById('unknown').value = unknown;
 }
